@@ -1,0 +1,5 @@
+body{ font-family: Roboto, sans-serif; background-color: #f4f4f4; padding: 5rem; color: #333;
+background-image: url(./img/001.png); background-position: center; background-size: cover;
+} 
+
+.app{ max-width: 600px; margin: 0 auto; background-color: #efefef; padding: 3rem; border-radius: 10px;}
